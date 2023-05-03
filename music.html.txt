@@ -1,0 +1,39 @@
+<!Doctype html>
+<head><title> AmandaRachelee</title>
+</head>
+<body background="pic.jpg">
+<header>
+<a href="MUSIC.html">
+
+<nav>
+<table cellspacing="24" cellpadding"24">
+<tr>
+<td><a href="index.html">HOME</a></td>
+<td><a href="ABOUT.html">ABOUT</a></td>
+<td><a href="CONTACT.html">CONTACT</a></td>
+<td><a href="BLOG.html">BLOG</a></td>
+<td><a href="FAQ.html">FAQ</a></td>
+<td><a href="MUSIC.html">MUSIC</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+</head>
+<body>
+    <center> <audio controls>
+         <source src="music.mp3" type="audio/mpeg">
+         Your browser does not support the audio element.
+
+     </audio> </center>
+     
+      <br/> 
+      
+       <center> <audio controls>
+          <source src="Audio.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+    
+       </audio> </center>
+
+     
+</body>
+</html>

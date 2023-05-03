@@ -1,0 +1,29 @@
+<!Doctype html>
+<head><title> AmandaRachelee</title></head>
+<body background="6pic.jpg">
+<header>
+<a href="FAQ.html">
+
+<nav>
+<table cellspacing="24" cellpadding"24">
+<tr>
+<td><a href="index.html">HOME</a></td>
+<td><a href="ABOUT.html">ABOUT</a></td>
+<td><a href="CONTACT.html">CONTACT</a></td>
+<td><a href="BLOG.html">BLOG</a></td>
+<td><a href="FAQ.html">FAQ</a></td>
+<td><a href="MUSIC.html">MUSIC</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<font face="Bookman old style"><b><i><u><center><h1>WELCOME  FRENQUENTLY ASKED QUESTIONS! </h1></center</u></i></b></font>
+<center> <img src="3photo.jpg" width="300" height="350"> </center>
+
+<p><font face="Arial" size="4"><i> I have questions about my Shop AmandaRachLee order
+Please refer to the Shop AmandaRachLee website and the shop FAQs for further information regarding orders or products.
+  Where can I buy your merch/products?
+You can purchase my merchandise on Shop AmandaRachLee. </i>
+</font>
+</body>
+</html>
